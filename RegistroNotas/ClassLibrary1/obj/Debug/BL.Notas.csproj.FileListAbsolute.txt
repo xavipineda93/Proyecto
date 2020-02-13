@@ -1,0 +1,4 @@
+C:\Users\olvin\Desktop\copia\RegistroNotas\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\olvin\Desktop\copia\RegistroNotas\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\olvin\Desktop\copia\RegistroNotas\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\olvin\Desktop\copia\RegistroNotas\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

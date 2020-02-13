@@ -1,0 +1,5 @@
+C:\Users\olvin\Desktop\copia\RegistroNotas\BL.Notas\bin\Debug\BL.Notas.dll
+C:\Users\olvin\Desktop\copia\RegistroNotas\BL.Notas\bin\Debug\BL.Notas.pdb
+C:\Users\olvin\Desktop\copia\RegistroNotas\BL.Notas\obj\Debug\BL.Notas.csprojResolveAssemblyReference.cache
+C:\Users\olvin\Desktop\copia\RegistroNotas\BL.Notas\obj\Debug\BL.Notas.dll
+C:\Users\olvin\Desktop\copia\RegistroNotas\BL.Notas\obj\Debug\BL.Notas.pdb
